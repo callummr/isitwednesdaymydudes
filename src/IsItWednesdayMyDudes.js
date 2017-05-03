@@ -11,6 +11,8 @@ class IsItWednesdayMyDudes extends Component {
 
     const theImageForWhetherIsItWednesdayMyDudes = getTheImageDependingOnWhetherItIsWednesdayMyDudes(isItWednesdayMyDudes);
     const theTextForWhetherItIsWednesdayMyDudes = getTheTextForWhetherItIsWednesdayMyDudes(isItWednesdayMyDudes);
+
+    window.document.title = theTextForWhetherItIsWednesdayMyDudes;
     
 
     return (
