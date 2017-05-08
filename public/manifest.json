@@ -1,0 +1,14 @@
+{
+  "short_name": "IIWMD",
+  "name": "Is It Wednesday My Dudes?",
+  "description": "Answer that all important question... Is it Wednesday, my dudes?",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone"
+}
