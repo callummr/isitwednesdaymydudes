@@ -13,13 +13,14 @@ class IsItWednesdayMyDudes extends Component {
     const theTextForWhetherItIsWednesdayMyDudes = getTheTextForWhetherItIsWednesdayMyDudes(isItWednesdayMyDudes);
 
     window.document.title = theTextForWhetherItIsWednesdayMyDudes;
-    
+
 
     return (
-      <div className="App">
-        <img 
+      <div className="is-it-wednesday-my-dudes">
+        <img
           src={theImageForWhetherIsItWednesdayMyDudes}
           alt={theTextForWhetherItIsWednesdayMyDudes}
+          className={isItWednesdayMyDudes ? 'it-is-wednesday-my-dudes' : ''}
         />
       </div>
     );
