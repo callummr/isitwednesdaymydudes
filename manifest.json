@@ -2,6 +2,7 @@
   "short_name": "IIWMD",
   "name": "Is It Wednesday My Dudes?",
   "description": "Answer that all important question... Is it Wednesday, my dudes?",
+  "theme_color": "#D4AE9B",
   "icons": [
     {
       "src": "favicon-16x16.png",
@@ -9,7 +10,7 @@
       "type": "image/png"
     },
     {
-      "src": "favicon-32x32",
+      "src": "favicon-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
