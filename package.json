@@ -2,7 +2,7 @@
   "name": "isitwednesday",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://isitwednesdaymydudes.github.io/",
+  "homepage": "https://isitwednesdaymydud.es/",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && sw-precache --config=sw-precache-config.js",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
