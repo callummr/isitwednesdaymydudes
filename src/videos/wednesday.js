@@ -33,7 +33,6 @@ export default [
   'm9AoW5bI-uQ',  //It is Wednesday My Budgett's Frog
   '72e0eiyYyjU',  //What day is today? (bah humbug)
   'unYR5yGpD0U',  //say the line, Bart
-  'DnrGo0NpC0Q',  //what day is it (remove)
   'N-xjRtEVPiQ',  //what day is it, Benjamin?(parrot)
   'pBFZBf8bQtA',  //It is Wednesday my dudes(elton)
   'WpbCGGJ-Olw',  //"It is wednesday my dudes" SPONGEBOB REMIX
