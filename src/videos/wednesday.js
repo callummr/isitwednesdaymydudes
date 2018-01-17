@@ -40,5 +40,7 @@ export default [
   '_ChVW2EpK_c',  //It is wednesday my memes (koala)
   'FuNQGa6oAYY',  //just asking about wednesday on alexa
   'HLf1kXBU2zU',  //It is Wednesday My Monkeys
-  'lIb3rlq8zPo'   //it is wednesday my ducks [kinda loud]
+  'lIb3rlq8zPo',  //it is wednesday my ducks [kinda loud]
+  'fyJGKEswuSc',  //Enter the Wednesday
+  'csqJK8wwaHw',  //Evolution of Wednesday
 ];
