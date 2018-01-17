@@ -18,7 +18,7 @@ export default [
   'hj_WYquMS0A',  //Martin Garrix & Bebe Rexha - In The Name Of Love
   'qWDHnpP8Coc',  //its just little ol me(cartoon)
   'JHO61_wDC30',  //Wednesday hard(zimoNitrome)
-  'RT0soCWpH3Q',  //bsolutely wednesday(cyranek)
+  'RT0soCWpH3Q',  //absolutely wednesday(cyranek)
   'SePVlroq6AI',  //Don't do Wednesdays(zimo)
   'oVxFk_IIB2o',  //dat dude!!!!
   'pXv4zQ6dYPQ',  //it is spooksday my ghouls(zimo)
