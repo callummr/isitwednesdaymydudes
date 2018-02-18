@@ -1,13 +1,12 @@
-import React from "react";
-import wednesdayImage from "../assets/wednesday.jpg";
-import wednesdayText from "../util/wednesdayText";
-import wednesdayVideos from "../videos/wednesday";
-import pickRandom from "../util/pickRandom";
-import VideoEmbed from "./VideoEmbed";
+import React from 'react';
+import wednesdayImage from '../assets/wednesday.jpg';
+import wednesdayText from '../util/wednesdayText';
+import pickVideo from '../util/pickVideo';
+import VideoEmbed from './VideoEmbed';
 
 export default () =>
   navigator.onLine ? (
-    <VideoEmbed videoId={pickRandom(wednesdayVideos)} />
+    <VideoEmbed videoId={pickVideo()} />
   ) : (
     <div className="align-center">
       <img src={wednesdayImage} alt={wednesdayText()} />
