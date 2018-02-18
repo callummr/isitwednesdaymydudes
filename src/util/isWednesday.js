@@ -1,1 +1,1 @@
-export default () => new Date().getDay() === 3;
+export default () => process.env.NODE_ENV ==='development' || new Date().getDay() === 3;
