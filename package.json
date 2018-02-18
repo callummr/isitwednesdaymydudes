@@ -6,7 +6,8 @@
   "dependencies": {
     "qs": "^6.5.1",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-youtube": "^7.5.0"
   },
   "devDependencies": {
     "gh-pages": "^0.12.0",
