@@ -49,4 +49,7 @@ export default [
   'm2Z0CyuyfMI', // wednesday → edit → copy
   'VaPMUACYWww', // it is mutating, my dudes
   '_87k7gxeVsw', // Valentines dudes
+  '3RSL5k3yZOM', // Dudes?
+  'VXc47lVx7Eo', // Heavy Wednesday
+  '0W51GIxnwKc', // just dudes
 ];
