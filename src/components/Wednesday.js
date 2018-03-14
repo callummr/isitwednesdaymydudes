@@ -3,7 +3,6 @@ import YouTube from 'react-youtube';
 import wednesdayImage from '../assets/wednesday.jpg';
 import wednesdayText from '../util/wednesdayText';
 import pickVideo from '../util/pickVideo';
-import VideoEmbed from './VideoEmbed';
 
 export default class wednesday extends Component {
   state = {
