@@ -54,4 +54,5 @@ export default [
   '0W51GIxnwKc', // just dudes
   'yaQAcuA8Xrg', // march 14th (spongebob)
   'VfaNCw2bF48', // it's the future my dudez
+  'BuX1B_WMwb0', // pronounciation guide
 ];
