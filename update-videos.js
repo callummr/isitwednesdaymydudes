@@ -37,10 +37,7 @@ request({
 })
 
 const writeNewVideoFile = (videoIds) => {
-  const firstLine = 'export default ['
   const idLines = videoIds.map(id => `\n  '${id}',`).join('')
-  const lastLine = '\n];\r\n'
-
-  const fileContent = firstLine + idLines + lastLine
+  const fileContent = `export default [${idLines}\n];\r\n`
   fs.writeFileSync('./src/videos/wednesday.js', fileContent)
 }
